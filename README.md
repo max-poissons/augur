@@ -7,6 +7,7 @@
 ## NEW RELEASE ALERT!
 ### [If you want to jump right in, updated docker build/compose and bare metal installation instructions are available here](docs/new-install.md)
 
+It's been so long since I've actually used GitHub that I'm a little rusty! Hello world!
 
 Augur is now releasing a dramatically improved new version to the main branch. It is also available here: https://github.com/chaoss/augur/releases/tag/v0.51.1
 - The `main` branch is a stable version of our new architecture, which features:
